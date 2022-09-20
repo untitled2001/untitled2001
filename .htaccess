@@ -1,3 +1,4 @@
 RewriteEngine on
 ErrorDocument 404 /404.html
 RedirectMatch 301 ^/$ https://www.wiisnt.com/
+RedirectMatch 301 /index.html https://www.wiisnt.com/
